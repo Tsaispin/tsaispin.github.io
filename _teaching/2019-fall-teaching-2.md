@@ -2,7 +2,7 @@
 title: "2019 Fall: Differential Manifolds"
 Collection: teaching
 type: "Graduate level couese"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2019-fall-teaching-2
 venue: "School of Mathematic and Sciences, USTC"
 date: 2019-10-14
 location: "Hefei, China"
